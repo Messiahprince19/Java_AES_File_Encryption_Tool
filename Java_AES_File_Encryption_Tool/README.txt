@@ -1,4 +1,4 @@
-Java AES File Encryption Tool - AVASOFT Placement Project
+Java AES File Encryption Tool 
 
 This project is a secure desktop-based AES file encryption/decryption tool using Java Swing. It allows users to encrypt and decrypt any file (e.g., PDFs, images, documents) with AES encryption (CBC mode).
 
